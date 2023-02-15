@@ -1,0 +1,5 @@
+/Users/caleyjwoods/code/command-line-rust/echo/target/debug/build/libc-ef05529cd43e0aeb/build_script_build-ef05529cd43e0aeb: /Users/caleyjwoods/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.139/build.rs
+
+/Users/caleyjwoods/code/command-line-rust/echo/target/debug/build/libc-ef05529cd43e0aeb/build_script_build-ef05529cd43e0aeb.d: /Users/caleyjwoods/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.139/build.rs
+
+/Users/caleyjwoods/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.139/build.rs:
